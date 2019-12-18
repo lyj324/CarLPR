@@ -1,0 +1,7 @@
+debug_GaussianBlur.jpg		高斯模糊后的图片
+debug_gray.jpg			灰度化图片
+debug_Sobel.jpg			Sobel算子后图片
+debug_threshold.jpg		二值化后图片
+debug_morphology.jpg		闭操作后图片	先膨胀后腐蚀，使轮廓线更光滑
+debug_Contours.jpg		提取最小外接矩形（提取轮廓）
+debug_result.jpg		旋转后结果
